@@ -1,0 +1,11 @@
+version: "2"
+services:
+  root:
+    container_name: apex_gis
+    image: "admin4trias/apex_gis:"
+    restart: always
+    ports:
+      - '4200:4200'
+      - '443:443'
+    stdin_open: true
+    tty: true

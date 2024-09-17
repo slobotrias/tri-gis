@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "definition" : {
+        "type" : "Non Clinical Data",
+        "subType": "",
+        "properties" : {
+          "legends": [{"icon": "", "description": ""},{"icon": "", "description": ""},{"icon": "", "description": ""}],
+          "name": "marker"
+        }
+      },
+    "viewConfig": {},
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "PROV": "WESTERN PROVINCE",
+          "DIST": "MIDDLE FLY",
+          "STRIP_NAME": "Dahamo Airstrip",
+          "LEGENDS": "CLOSED",
+          "APC": "AYDA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [141.99373, -5.75298]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PROV": "WESTERN PROVINCE",
+          "DIST": "MIDDLE FLY",
+          "STRIP_NAME": "Suabi Airport",
+          "LEGENDS": "OPEN",
+          "APC": "SBE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [142.2783333, -6.1044444]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PROV": "WESTERN PROVINCE",
+          "DIST": "MIDDLE FLY",
+          "STRIP_NAME": "Debepare Airport",
+          "LEGENDS": "OPEN",
+          "APC": "DBP"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [141.9055556, -6.3086111]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PROV": "WESTERN PROVINCE",
+          "DIST": "MIDDLE FLY",
+          "STRIP_NAME": "Honinabi Airport",
+          "LEGENDS": "OPEN",
+          "APC": "HNN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [142.1771, -6.23333]
+        }
+      }
+    ]
+  }
+  
